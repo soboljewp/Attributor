@@ -112,8 +112,6 @@
 		CD28D33319696EE500A25A4E /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
-				CD28D33C19696EE500A25A4E /* AttributorAppDelegate.h */,
-				CD28D33D19696EE500A25A4E /* AttributorAppDelegate.m */,
 				CD28D33F19696EE500A25A4E /* Main.storyboard */,
 				CD28D34219696EE500A25A4E /* AttributorViewController.h */,
 				CD28D34319696EE500A25A4E /* AttributorViewController.m */,
@@ -126,6 +124,8 @@
 		CD28D33419696EE500A25A4E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CD28D33C19696EE500A25A4E /* AttributorAppDelegate.h */,
+				CD28D33D19696EE500A25A4E /* AttributorAppDelegate.m */,
 				CD28D33519696EE500A25A4E /* Attributor-Info.plist */,
 				CD28D33619696EE500A25A4E /* InfoPlist.strings */,
 				CD28D33919696EE500A25A4E /* main.m */,
